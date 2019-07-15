@@ -1,0 +1,9 @@
+Package: com.gilshahar7.exacttimemessages
+Name: ExactTimeMessages
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Adds an exact time to the message cells in the stock messages app.
+Maintainer: gilshahar7
+Author: gilshahar7
+Section: Tweaks
